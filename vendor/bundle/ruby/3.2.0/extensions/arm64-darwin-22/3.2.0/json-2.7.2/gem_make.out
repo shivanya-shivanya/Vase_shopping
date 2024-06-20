@@ -1,0 +1,16 @@
+current directory: /Users/pooja/Documents/personalproject/cartApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+/Users/pooja/.rvm/rubies/ruby-3.2.0/bin/ruby -I /Users/pooja/.rvm/rubies/ruby-3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/pooja/Documents/personalproject/cartApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240502-3719-7p8hg3 sitelibdir\=./.gem.20240502-3719-7p8hg3 clean
+
+current directory: /Users/pooja/Documents/personalproject/cartApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240502-3719-7p8hg3 sitelibdir\=./.gem.20240502-3719-7p8hg3
+make: Nothing to be done for `all'.
+
+current directory: /Users/pooja/Documents/personalproject/cartApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240502-3719-7p8hg3 sitelibdir\=./.gem.20240502-3719-7p8hg3 install
+
+current directory: /Users/pooja/Documents/personalproject/cartApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240502-3719-7p8hg3 sitelibdir\=./.gem.20240502-3719-7p8hg3 clean
